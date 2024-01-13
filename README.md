@@ -2,7 +2,7 @@
 Konnichiwaa!! I am a WhatsApp bot create by NEOSYSTEMSKE and recode by Team CYBERTECH to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
  <p align="center">  
   <a href="">
-    <img alt="CYBERTECH-MD" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="CYBERTECH-MD" width="600" height="350" src="https://files.fm/f/kh5p4bsj6h">
   </a>
 </p>
 
